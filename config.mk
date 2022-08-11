@@ -1,5 +1,5 @@
 # dmenu version
-VERSION = 5.2
+VERSION = 5.2+daniel.source
 
 # paths
 PREFIX = /usr/local
